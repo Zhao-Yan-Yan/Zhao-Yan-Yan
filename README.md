@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎤 🕺 🎶 🏀 🐔 👋
+🎤 🕺 🎶 🏀 🐔 👏 
 
 ![鸡](http://n.sinaimg.cn/sinacn20190503s/353/w708h445/20190503/e3Fm-hwfpcxn7635868.jpg)
 
