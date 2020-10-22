@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Zhao-Yan-Yan/Zhao-Yan-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎤 🕺 🎶 🏀 🐔
+
 ![鸡](http://n.sinaimg.cn/sinacn20190503s/353/w708h445/20190503/e3Fm-hwfpcxn7635868.jpg)
+
+👋
