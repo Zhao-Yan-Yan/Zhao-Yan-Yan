@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Zhao-Yan-Yan&color=green)
 <p align="center">
   🎤  🕺  🎶  🏀  🐔  👏 
 </p>
