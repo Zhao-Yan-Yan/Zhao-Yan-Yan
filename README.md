@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="/微信图片_20250820103901_6082_53.jpg" height="300"/>
-</div>
+</div> -->
 
 <h1 align="center">👋 你好，我是赵岩</h1>
 
@@ -11,8 +11,6 @@
 <p align="center">
   🎤  🕺  🎶  🏀  🐔  👏
 </p>
-
----
 
 ## 🚀 关于我
 
@@ -47,7 +45,11 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhao-Yan-Yan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Yan-Yan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zhao-Yan-Yan&show_icons=true&theme=radical&hide_border=true&locale=cn" alt="GitHub Stats" />
 </div>
 
@@ -57,16 +59,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Yan-Yan&layout=compact&theme=radical&hide_border=true&locale=cn" alt="Most Used Languages" />
-</div>
+</div> -->
 
 ## 📫 联系我
 
 <p align="center">
   欢迎与我交流移动开发技术，一起进步！
 </p>
-
----
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zhao-Yan-Yan&color=blueviolet&style=flat-square&label=访问量" alt="Profile Views" />
-</p>
+</p> -->
