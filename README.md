@@ -37,14 +37,7 @@
 - Retrofit、OkHttp 网络请求
 - Glide/Coil 图片加载
 
-**工具 & 其他:**
-- Git 版本控制
-- Gradle 构建工具
-- 熟悉 RESTful API 开发
-- CI/CD 持续集成
-
 ## 📊 GitHub 统计
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhao-Yan-Yan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Yan-Yan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
