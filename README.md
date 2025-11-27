@@ -39,8 +39,8 @@
 
 ## 📊 GitHub 统计
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhao-Yan-Yan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Yan-Yan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+|   <img src="/微信图片_20250820103901_6082_53.jpg" height="200"/> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhao-Yan-Yan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Yan-Yan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | ------------- |
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zhao-Yan-Yan&show_icons=true&theme=radical&hide_border=true&locale=cn" alt="GitHub Stats" />
